@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wassim</h1>
 <h3 align="center">A passionate frontend developer From Tunisia</h3>
 
-- 🔭 I’m currently working on [Missguided](https://github.com/Epherum/Missguided)
+- 🔭 I’m currently working on [Zapper](https://github.com/Epherum/Zapper)
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **Nextjs and Node**
 
 - 📫 How to reach me **wassimfekih2@gmail.com**
 
